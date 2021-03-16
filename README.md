@@ -7,9 +7,8 @@ Estou cursando o curso de Análise e desenvolvimento de Sistemas.
 Venho buscando conhecimento e aprendizado na área de TI, creio que meu próximo passo que tenho que dar é a efetuação de um estágio, pois apesar da faculdade e os cursos complementares, um estágio me traria novos conhecimentos e experiências na área.
 
 CONHECIMENTOS:
-- Linguagem Java : Nível de conhecimento: básico
-- Banco de dados-MySQL:Nível conhecimento: básico
-- HTML semântica
-- HTML5:Nível de conhecimento básico
-- CSS3:Nível de conhecimento básico
+- Linguagem Java 
+- Banco de dados-MySQL
+- HTML5
+- CSS3
   
