@@ -5,23 +5,19 @@
 Sou um desenvolvedor de software backend, atualmente estou buscando novas experiências, onde eu possa desenvolver minhas hard skills, mas também soft skills, pois creio que uma boa comunicação e trabalho em conjunto seja essencial para a harmonia e evolução, gosto de desafios e aprendizados novos.
 
 FORMAÇÃO ACADÊMICA  
-
-E. E.  Professor Alberto Conte
-Concluído em DEZ de 2019
-Ensino médio completo.
-UNIBTA - Universidade Brasileira de Tecnologia avançada
-FEV DE 2019 - JUN DE 2022
-Análise e desenvolvimento de sistemas, curso concluindo, apenas falta a colação de grau
+UNIBTA - Universidade Brasileira de Tecnologia avançada  
+FEV DE 2019 - JUN DE 2022  
+Análise e desenvolvimento de sistemas, curso concluindo, apenas falta a colação de grau  
 
 EXPERIÊNCIAS  
 
-Zup Innovation — Jovem aprendiz
-Projeto/ ITAÚ CONSIGNADO- Meios de pagamentos
-NOV DE 2021 -  NOV  DE 2022
-Competências: Kotlin, GIT , GitHub, SQL, AWS,  Apache Kafka
-Projeto/ ITAÚ CONSIGNADO- Integração com a PUC
-DEZ DE 2022 - ATUALMENTE
-Competências:  Kotlin, Python, GitHub, Serveless, Node
+Zup Innovation — Jovem aprendiz  
+Projeto/ ITAÚ CONSIGNADO- Meios de pagamentos  
+NOV DE 2021 -  NOV  DE 2022  
+Competências: Kotlin, GIT , GitHub, SQL, AWS,  Apache Kafka   
+Projeto/ ITAÚ CONSIGNADO- Integração com a PUC  
+DEZ DE 2022 - ATUALMENTE    
+Competências:  Kotlin, Python, GitHub, Serveless, Node  
 
 CONHECIMENTOS:  
 
