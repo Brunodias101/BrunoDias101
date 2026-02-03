@@ -1,29 +1,11 @@
-### Ola, eu sou o Bruno!
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Brunodias101)](https://github.com/Brunodias101)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-dias-1804b0206/)](https://www.linkedin.com/in/bruno-dias-1804b0206/)
+👋 Olá, eu sou o Bruno Dias
 
-Sou desenvolvedor de software backend, com experiência em microserviços Java, Kotlin, Spring, Kafka, AWS, Modelos ágeis e etc, nos contextos de meios de pagamentos e integração com plataforma de crédito na indústria financeira. Estou buscando um lugar onde possa fazer a diferença e impactar positivamente o negócio, desenvolvendo minhas hards skills e soft skills.
+Desenvolvedor Backend com experiência prática em microserviços Java e Kotlin, atuando em projetos da indústria financeira (meios de pagamento e integrações de crédito).
 
-FORMAÇÃO ACADÊMICA  
-UNIBTA - Universidade Brasileira de Tecnologia avançada  
-FEV DE 2019 - JUN DE 2022  
-Análise e desenvolvimento de sistemas, curso concluindo, apenas falta a colação de grau  
+Tenho vivência com Spring Boot, Apache Kafka, AWS (Serverless), SQL e NoSQL, trabalhando em ambientes distribuídos, orientados a eventos e com foco em escalabilidade e impacto de negócio.
 
-EXPERIÊNCIAS  
+Atuei em projetos do Itaú Consignado, contribuindo para integrações críticas e soluções de alta confiabilidade.
 
-Zup Innovation — Jovem aprendiz  
-Projeto/ ITAÚ CONSIGNADO- Meios de pagamentos  
-NOV DE 2021 -  NOV  DE 2022  
-Competências: Kotlin, GIT , GitHub, SQL, AWS,  Apache Kafka   
-Projeto/ ITAÚ CONSIGNADO- Integração com a PUC  
-DEZ DE 2022 - ATUALMENTE    
-Competências:  Kotlin, Python, GitHub, Serveless, Node  
+🎯 Atualmente focado em consolidar minha base técnica, aprofundar arquitetura de software e evoluir como desenvolvedor backend orientado a produto.
 
-CONHECIMENTOS:  
-
-Hard Skill:
-Kotlin, Java, AWS, Kafka, Teste Unitário, Teste Integrado,
-SQL, NoSql,  Git.
-
-Soft Skill:
-Comunicação , trabalho em equipe, aprendizado contínuo, motivação, scrum, gerar impacto de negocia, fazer a diferença.
+Sempre buscando construir soluções simples, eficientes e que realmente façam diferença.
